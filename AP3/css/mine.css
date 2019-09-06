@@ -1,0 +1,19 @@
+.logo{
+	position: absolute;
+	left: 33%;
+	top: 15%;
+	width: 40%;
+	height: 15%;
+}
+.logo2{
+	position: absolute;
+	left: 10%;
+	top: 10%;
+	height: 80%;
+}
+.grafik{
+	position: fixed;
+	width: 40%;
+	left: 30%;
+	top: 30%;
+}
